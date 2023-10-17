@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Otie Bear - Luxury Dog Harness Set</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            text-align: center;
+        }
+        .header {
+            background-color: navy;
+            color: #fff;
+            padding: 20px;
+        }
+        .content {
+            margin: 20px;
+        }
+        .product {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Welcome to Otie Bear's Luxury Dog Harness Set</h1>
+    </div>
+    <div class="content">
+        <h2>About Otie Bear</h2>
+        <p>Hello, I'm Otie Bear, your furry companion, and I'm excited to introduce you to my luxury dog harness set. I take pride in offering the finest in comfort and style for your four-legged friends.</p>
+        
+        <h2>The Corduroy Inlay Collection</h2>
+        <div class="product">
+            <img src="corduroy_set.jpg" alt="Luxury Dog Harness Set">
+            <p>Indulge your dog in the ultimate comfort and fashion with my Corduroy Inlay Collection. This exquisite set includes a collar, leash, and harness, all meticulously designed with the softest corduroy inlay for a comfortable fit.</p>
+            <p>Colors available: Navy Blue, Pistachio Green, and Iris Blue.</p>
+            <p>Give your pet the best. Order now and make them the talk of the dog park!</p>
+        </div>
+
+        <h2>Contact Me</h2>
+        <p>For inquiries or to place an order, feel free to reach out to me at otiebear@gmail.com. I'm here to assist you and your beloved pets.</p>
+    </div>
+</body>
+</html>
